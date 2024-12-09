@@ -2,7 +2,7 @@
 Doing exploratory data analysis on Telco Customer Churn.
 
 ## Dataset
-The dataset used for this project can be found on Kaggle: [Telco-Customer-Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+The dataset used for this project can be found on Kaggle: [WA_Fn-UseC_-Telco-Customer-Churn](https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn/)
 
 ## Data Understanding
 The dataset contained the following features:
